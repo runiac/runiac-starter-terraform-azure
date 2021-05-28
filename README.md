@@ -7,9 +7,9 @@
   Runiac's terraform-azure-hello-world starter
 </h1>
 
-<h3 align="center">
-<a href="https://runiac.io/docs/">Documentation</a>
-<h3>
+<h5 align="center">
+<a href="https://runiac.io/docs/">Runiac Documentation</a>
+<h5>
 <p></p>
 
 ## Step 0: Requirements
