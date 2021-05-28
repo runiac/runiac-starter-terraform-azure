@@ -14,8 +14,6 @@
 
 ## Step 0: Requirements
 
-See the top-level README for information on obtaining these items:
-
 - An Azure subscription [(free to start)](https://azure.microsoft.com/en-us/free/)
 - Docker
 
