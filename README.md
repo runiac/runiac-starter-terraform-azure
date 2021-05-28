@@ -45,8 +45,6 @@ Finally, You can clean up any resources that were created by runiac with the `--
 runiac deploy -a <azure-subscription-id> --local --self-destroy
 ```
 
-Open `step1/default/main.tf` and start adding resources. Once ready to test run the same `runiac deploy` command.
-
 ## That's it!
 
 Congratulations! You've successfully run, modified and destroyed your Runiac project.
