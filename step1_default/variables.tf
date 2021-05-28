@@ -10,10 +10,6 @@ variable runiac_region {
     type = string
 }
 
-variable runiac_environment {
-    type = string
-}
-
 variable runiac_namespace {
     type = string
 }
